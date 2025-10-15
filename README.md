@@ -4,7 +4,6 @@
 
 <summary>Watch the Demo Video</summary>
 
-[Watch the Demo](https://user-images.githubusercontent.com/76186054/214171508-8ef2e3c1-f3fe-46f7-ad6d-ba3677c762f1.mp4)
 
 </details>
 
@@ -74,10 +73,6 @@ Congratulations, you've successfully started your own Invoiceable instance!
 
 **Assume everything from Invoiceable is inaccurate.** Invoiceable uses an AI model, however this model is often mistaken, off, or completely incorrect.
 
-## Credits
-
-* [`impira/layoutlm-document-qa`](https://huggingface.co/impira/layoutlm-document-qa)
-* [`Multipage PDF to JPEG Image Conversion in Python`](https://mtyurt.net/post/2019/multipage-pdf-to-jpeg-image-in-python.html)
 
 ## License
 
