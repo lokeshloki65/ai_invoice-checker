@@ -1,11 +1,5 @@
 # Invoiceable
 
-<details>
-
-<summary>Watch the Demo Video</summary>
-
-
-</details>
 
 
 ## Introduction
