@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Invoiceable is a free and open-sourced Flask application that uses AI, Tesseract OCR, and the open-sourced machine learning model [`impira/layoutlm-document-qa`](https://huggingface.co/impira/layoutlm-document-qa) to parse invoices, documents, résumés, and more.
+Invoiceable is a free and open-sourced Flask application that uses AI, Tesseract OCR, and the open-sourced machine learning model [`impira/layoutlm-document-qa`](https://huggingface.co/impira/layoutlm-document-qa) to parse invoices
 
 Invoiceable is an educational project and should not be relied on. Do not expect updates, bugfixes, or major changes to this abandonware.
 
